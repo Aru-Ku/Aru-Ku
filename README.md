@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/aru-ku" target="_blank">LinkedIn</a>&nbsp|&nbsp;
+    <a href="https://www.linkedin.com/in/aru-ku" target="_blank">LinkedIn</a>&nbsp;|&nbsp;
     <a href="https://github.com/Aru-Ku" target="_blank">GitHub</a>
 </p>
 
